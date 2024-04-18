@@ -20,4 +20,8 @@ Through this approach, I aimed to simplify the integration process while ensurin
 4. Connections:
 <img src="https://iotforgeeks.com/wp-content/uploads/2020/03/Programming-STM32-with-USB-to-Serial-TTL.jpg" width="500" height="300">
 
-## 
+## Steps of Configuration 
+
+### Configuration on stm 
+
+### Configuration on python file which can run on (PC, Jetson or Raspberry Pi)
