@@ -22,6 +22,6 @@ Through this approach, I aimed to simplify the integration process while ensurin
 
 ## Steps of Configuration 
 
-### Configuration on stm 
+### Configuration on Microcontroller  
 
-### Configuration on python file which can run on (PC, Jetson or Raspberry Pi)
+### Configuration on Python file which can run on (PC, Jetson or Raspberry Pi)
